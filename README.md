@@ -1,36 +1,5 @@
 <html> 
-<head> <title>Современные уроки HTML для начинающих</title>
-<title> border-color</title>
- <title>border-left</title>
- <title>border-right</title>
-
-<body background="blue-boolean.png">
-
-  <style>
-.line {
-    border-left: 2px solid white; /* Линия слева от текста */
-    padding-left: px; /* Расстояние между линией и текстом */
-    margin-left: 0px; /* Расстояние от левого края до линии */
-    border-right: 2px solid white; /* Линия слева от текста */
-    padding-right: px; /* Расстояние между линией и текстом */
-    margin-right: 0px; /* Расстояние от левого края до линии */
-
-    
-   }
-p img { 
-    border-color: red; /* Цвет границы */
-    border-style: solid; /* Стиль границы */
-    padding: 0px; /* Поля вокруг текста */
-   }
-a { border-color: red; /* Цвет границы */
-    border-style: solid; /* Стиль границы */
-    padding: 2px; /* Поля вокруг текста */
-background: DarkRed;
-
-    font-size:30px; color:GreenYellow;
-text-decoration: none;
-   }
-</style>
+<head> 
 
 </head>
 <body>
